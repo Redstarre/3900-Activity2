@@ -124,10 +124,11 @@ PAGE:
     border-radius: 20px;
 }
 
-cat-photo {
+.cat-photo {
     display: block;
-    max-width: 250px;
-    margin: 0 auto 30px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 80%
     border-radius: 5px;
 }
 
